@@ -28,22 +28,23 @@ This project analyzes Ola ride data to uncover business insights. Key aspects co
 
 ## 🛠️ Tools Used
 ---
-🔹 SQL – For data extraction & querying
-🔹 Power BI – For dashboard creation & visualization
-🔹 Excel – For data pre-processing
+🔹 SQL – For data extraction & querying <br>
+🔹 Power BI – For dashboard creation & visualization <br>
+🔹 Excel – For data pre-processing <br> 
 
 🔍 Data Insights & Analysis
 ---
-### 📌 SQL Analysis
+### 📌 SQL Analysis  
 
-✔ Retrieve total successful bookings
-✔ Find the average ride distance per vehicle type
-✔ Identify the top 5 customers based on rides & booking value
-✔ Analyze cancellation reasons from customers & drivers
-✔ Compute customer & driver ratings distribution
+✔ Retrieve total successful bookings <br>
+✔ Find the average ride distance per vehicle type  <br>
+✔ Identify the top 5 customers based on rides & booking value  <br>
+✔ Analyze cancellation reasons from customers & drivers <br>
+✔ Compute customer & driver ratings distribution  <br>
 
 
 📌 Check the SQL Query Results:
+
 ![SQL QUERY](OLA_SQL-ANSWERS.png)
 
 
@@ -58,10 +59,11 @@ Created an interactive dashboard to visualize ride data trends:
 ⭐ Customer vs. Driver Ratings
 
 📌 Check the Power BI Dashboard Output:
+
 [POWER BI DASHBOARD ANSWERS](OLA_POWER_BI-ANSWERS)
 
 
-🚀 How to Use This Project?
+### 🚀 How to Use This Project?
 
 1️⃣ Download the dataset:
 [OLA Dataset](OLA_DATASET.csv)
@@ -71,7 +73,6 @@ Created an interactive dashboard to visualize ride data trends:
 
 3️⃣ Power BI Dashboard:
 [Power BI Dashboard](OLA_POWER_BI-ANSWERS.png)
-
 
 
 

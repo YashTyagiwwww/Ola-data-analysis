@@ -1,14 +1,16 @@
 # Ola-data-analysis
 
-📊 End-to-End Data Analysis of Ola Rides using SQL, Power BI, and Excel
+## 📊 End-to-End Data Analysis of Ola Rides using SQL, Power BI, and Excel
 
-🚀 This project provides data-driven insights into ride trends, cancellations, revenue, and customer ratings using:
-✅ SQL Queries – Data extraction & transformation
+###🚀 This project provides data-driven insights into ride trends, cancellations, revenue, and customer ratings using:
+✅ SQL Queries – Data extraction & transformation 
 ✅ Power BI Dashboard – Interactive visualizations
 ✅ Excel Processing – Data cleaning & structuring
 
+---
 
-📌 Project Overview
+##📌 Project Overview
+---
 This project analyzes Ola ride data to uncover business insights. Key aspects covered:
 ✔ Ride trends & booking status breakdown
 ✔ Cancellations by customers & drivers
@@ -17,18 +19,20 @@ This project analyzes Ola ride data to uncover business insights. Key aspects co
 ✔ Customer vs. Driver Ratings
 
 📌 Project Workflow:
+![Project Workflow](OLA_QUESTIONS.png)
 
+---
 
-
-
-
-🛠️ Tools Used
+##🛠️ Tools Used
+---
 🔹 SQL – For data extraction & querying
 🔹 Power BI – For dashboard creation & visualization
 🔹 Excel – For data pre-processing
 
 🔍 Data Insights & Analysis
-📌 SQL Analysis
+---
+###📌 SQL Analysis
+
 ✔ Retrieve total successful bookings
 ✔ Find the average ride distance per vehicle type
 ✔ Identify the top 5 customers based on rides & booking value
@@ -37,10 +41,12 @@ This project analyzes Ola ride data to uncover business insights. Key aspects co
 
 
 📌 Check the SQL Query Results:
+![SQL QUERY](OLA_SQL-ANSWERS.png)
 
 
 
-📊 Power BI Dashboard
+###📊 Power BI Dashboard
+
 Created an interactive dashboard to visualize ride data trends:
 📈 Ride Volume Over Time
 📊 Booking Status Breakdown
@@ -49,15 +55,13 @@ Created an interactive dashboard to visualize ride data trends:
 ⭐ Customer vs. Driver Ratings
 
 📌 Check the Power BI Dashboard Output:
-
+[POWER BI DASHBOARD ANSWERS](OLA_POWER_BI-ANSWERS)
 
 
 🚀 How to Use This Project?
-1️⃣ Download the dataset – 
-2️⃣ Run SQL queries to extract insights – 
-3️⃣ Explore the Power BI dashboard insights – 
-
-
+1️⃣ Download the dataset – ![](OLA_DATASET.csv)
+2️⃣ Run SQL queries to extract insights – ![](OLA_SQL-ANSWERS)
+3️⃣ Explore the Power BI dashboard insights – ![](OLA_POWER_BI-ANSWERS)
 
 
 

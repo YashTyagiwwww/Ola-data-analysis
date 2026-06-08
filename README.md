@@ -8,9 +8,9 @@
 ✅ Excel Processing – Data cleaning & structuring <br>
 
 
-
-## 📌 Project Overview
 ---
+## 📌 Project Overview
+
 This project analyzes Ola ride data to uncover business insights. Key aspects covered: <br>
 ✔ Ride trends & booking status breakdown <br>
 ✔ Cancellations by customers & drivers <br> 
@@ -27,7 +27,7 @@ This project analyzes Ola ride data to uncover business insights. Key aspects co
 ---
 
 ## 🛠️ Tools Used
----
+
 🔹 SQL – For data extraction & querying <br>
 🔹 Power BI – For dashboard creation & visualization <br>
 🔹 Excel – For data pre-processing <br> 

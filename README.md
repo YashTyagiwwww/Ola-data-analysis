@@ -19,7 +19,10 @@ This project analyzes Ola ride data to uncover business insights. Key aspects co
 ✔ Customer vs. Driver Ratings
 
 📌 Project Workflow:
+
 ![Project Workflow](OLA_QUESTIONS.png)
+
+
 
 ---
 
@@ -59,12 +62,15 @@ Created an interactive dashboard to visualize ride data trends:
 
 
 🚀 How to Use This Project?
-1️⃣ Download the dataset – ![](OLA_DATASET.csv)
-2️⃣ Run SQL queries to extract insights – ![](OLA_SQL-ANSWERS)
-3️⃣ Explore the Power BI dashboard insights – ![](OLA_POWER_BI-ANSWERS)
 
+1️⃣ Download the dataset:
+[OLA Dataset](OLA_DATASET.csv)
 
+2️⃣ SQL Query Results:
+[SQL Answers](OLA_SQL-ANSWERS.png)
 
+3️⃣ Power BI Dashboard:
+[Power BI Dashboard](OLA_POWER_BI-ANSWERS.png)
 
 
 

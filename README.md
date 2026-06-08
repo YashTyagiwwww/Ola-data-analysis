@@ -7,16 +7,16 @@
 ✅ Power BI Dashboard – Interactive visualizations <br>
 ✅ Excel Processing – Data cleaning & structuring <br>
 
----
+
 
 ## 📌 Project Overview
 ---
-This project analyzes Ola ride data to uncover business insights. Key aspects covered:
-✔ Ride trends & booking status breakdown
-✔ Cancellations by customers & drivers
-✔ Revenue distribution by payment method
-✔ Top customers & vehicle types by ride distance
-✔ Customer vs. Driver Ratings
+This project analyzes Ola ride data to uncover business insights. Key aspects covered: <br>
+✔ Ride trends & booking status breakdown <br>
+✔ Cancellations by customers & drivers <br> 
+✔ Revenue distribution by payment method <br>
+✔ Top customers & vehicle types by ride distance <br>
+✔ Customer vs. Driver Ratings <br>
 
 📌 Project Workflow:
 
